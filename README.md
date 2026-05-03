@@ -1,7 +1,7 @@
 # Calculator Project
 
 ## Description
-This is a simple calculator project made using C, Java, and HTML & CSS. It performs basic arithmetic operations like addition, subtraction, multiplication, and division.
+This is a simple calculator project made using C and Java. It performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 ## Features
 - Basic calculations
